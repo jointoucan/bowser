@@ -1,7 +1,10 @@
 {
-  "name": "bowser",
+  "name": "@jointoucan/bowser",
   "version": "2.11.0",
   "description": "Lightweight browser detector",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "browser",
     "useragent",
