@@ -1,6 +1,6 @@
 {
   "name": "@jointoucan/bowser",
-  "version": "2.11.0",
+  "version": "2.11.1",
   "description": "Lightweight browser detector",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
@@ -29,7 +29,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lancedikson/bowser.git"
+    "url": "git+https://github.com/jointoucan/bowser.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
